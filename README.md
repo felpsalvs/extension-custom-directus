@@ -19,11 +19,25 @@ npm install directus-extension-layout-boilerplate
 ## License
 This package is licensed under the ISC License. See the [LICENSE](LICENSE) file for details.
 
-## Author
-This package is authored and maintained by [Felipe Alves](https://github.com/felpsalvs).
-
 ## Issues
 Please report any issues or suggestions on [GitHub Issues](https://github.com/felpsalvs/extension-custom-directus/issues).
+
+### 🐛 Bugs
+
+Please file an issue for bugs, missing documentation, or unexpected behavior.
+
+## Contributor
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://www.linkedin.com/in/felipealves-/"><img src="https://avatars.githubusercontent.com/u/78622458?v=4" width="100px;" alt="Marcos Mendes"/><br /><sub><b>Felipe Alves</b></sub></a><br /><a href="https://github.com/felpsalvs" title="Code">💻</a> <a href="https://www.linkedin.com/in/felipealves-/" title="Linkedin">💼</a></td>
+    </tr>
+  </tbody>
+  <tfoot>
+
+  </tfoot>
+</table>
 
 ## Contributing
 Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
