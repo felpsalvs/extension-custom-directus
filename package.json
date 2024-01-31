@@ -1,0 +1,26 @@
+{
+  "name": "extension-custom-directus",
+  "version": "1.0.0",
+  "description": "This extension will serve as a test for the directus development environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felpsalvs/extension-custom-directus.git"
+  },
+  "keywords": [
+    "directus",
+    "extension",
+    "custom",
+    "javascript",
+    "vue"
+  ],
+  "author": "Felipe Alves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felpsalvs/extension-custom-directus/issues"
+  },
+  "homepage": "https://github.com/felpsalvs/extension-custom-directus#readme"
+}
